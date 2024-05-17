@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 17. 05. 2024
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -32,11 +32,14 @@
 
 ## Input:
 
+![330525186-d889fbac-22f6-4b6e-b9ef-e61957197e3a](https://github.com/Hari-Prasath-P-08/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139455593/f1c7a3b7-8741-4133-a90f-7a43df99ce00)
+
 ### Output:
 
+![330525241-74b7b524-73f8-4835-8629-afa72d497b22](https://github.com/Hari-Prasath-P-08/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139455593/8746de7d-e23c-441f-9a94-8d4150189b84)
 
-### Name:
-### Register Number:
+### Name: Hari Prasath. P
+### Register Number: 212223230070
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
